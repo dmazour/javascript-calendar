@@ -1,1 +1,65 @@
+#youGoofed{
+	visibility: hidden;
+	text-align: center;
+}
+.jumbotron{
+	visibility: visible;
+}
+#currentMonth{
+	visibility: hidden;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
 
+}
+#changeMonth{
+	visibility: hidden;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#changeMonthPrev{
+	visibility: hidden;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.weekHeader{
+	text-align: center;
+}
+#toggleSharedButton{
+	visibility: hidden;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+#loginScreen{
+	text-align: center;
+}
+#welcome{
+	margin-bottom: 50px;
+	font-style: italic;
+}
+#addEvent{
+	visibility: hidden;	
+	text-align: center;
+	margin-bottom: 20px;
+}
+#eventYear{
+	width: 40px;
+}
+#sharedWith{
+	width: 80px;
+}
+#category{
+	width: 80px;
+}
+#categoryHeader{
+	visibility: hidden;	
+	margin-left: 10%;
+	margin-bottom: 15px;
+}
+.deleteButton{
+	margin-left: 3px;
+}
+.categoryCalendar{
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
